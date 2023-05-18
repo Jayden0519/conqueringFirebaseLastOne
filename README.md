@@ -1,7 +1,7 @@
 # conqueringFirebaseLastOne
 Project Name: FirebaseLastOne 
 Class: Advanced Java Topics
-Data: 5/18/23
+Date: 5/18/23
 Date Submitted: 12/15/22
 Partners and Info: This is the final submission of the firebase projects I had been attempting 
 definitely one of the more fun projects I had been attempting being able to 
